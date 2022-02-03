@@ -44,7 +44,7 @@ def rus():
 def kemt():
 	showinfo(title="доп.химия",message="химия для двоечников\n Учитель - Svetlana Pesestkaja\n Кабинет - B 144")
 def progr():
-	showinfo(title="программирование",message="пайтон и гитхаб\n Учитель - Marina Oleinik\n Кабинет - E 07")
+	showinfo(title="программирование",message="питончик\n Учитель - Marina Oleinik\n Кабинет - E 07")
 def füsik():
 	showinfo(title="физика",message="физика\n Учитель - Nadewda Voronova\n Кабинет - B 133")
 def kunst():
